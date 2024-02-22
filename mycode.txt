@@ -1,3 +1,5 @@
 zzxxxxx
 bbbb
 processing user data
+
+create an avatar for user
